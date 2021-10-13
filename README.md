@@ -1,4 +1,5 @@
-# text-and-file-changer
+# md-and-img-changes-helper-tool
+
 A simple tool to facilitate image filename changes in a repository's markdown files.
 ## Purpose
 The idea behind this tool: 
