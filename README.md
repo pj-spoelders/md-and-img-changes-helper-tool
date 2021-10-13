@@ -16,7 +16,10 @@ The tool also lists 'floating' images not used in any of the .md files in the re
 
 ## Current state
 100% Functional.
-Needs error handling, some typical string handling stuff like trimming, maybe a lookup mechanism
+
+Needs error handling, some typical string handling stuff like trimming, maybe a lookup mechanism.
+
 
 ## Other features that could be added
 - Finding floating img links in .md files.
+- A refresh overview function and an abort function
