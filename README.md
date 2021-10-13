@@ -9,8 +9,8 @@ This tool takes the finicky part out of it, makes it not error prone and reduces
 ## Additional feature: finding 'floating' images.
 The tool also lists 'floating' images not used in any of the .md files in the repository.
 
-## Current state:
+## Current state
 100% Functional.
 Needs error handling, some typical string handling stuff like trimming, maybe a lookup mechanism
 
-##Other features that could be added: finding floating img links in md files.
+## Other features that could be added: finding floating img links in .md files.
